@@ -17,12 +17,6 @@ Introduction:
 Stock market prediction involves forecasting the future value of stocks based on historical data and financial indicators. 
 This project leverages machine learning techniques to provide accurate predictions, assisting investors in making informed decisions.
 
-Project Setup:
-Clone the repository and install the necessary dependencies:
-git clone https://github.com/yourusername/stock-market-prediction-ml.git
-cd stock-market-prediction-ml
-pip install -r requirements.txt
-
 Data Collection:
 We collected historical stock price data from Yahoo Finance. 
 The dataset includes various financial indicators necessary for predicting stock prices.
